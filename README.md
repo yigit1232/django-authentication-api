@@ -1,2 +1,2 @@
-# django-authenticated-api
-Django Rest Framework - JWT authentication
+# django-authentication-api
+### Django Rest Framework - JWT authentication
